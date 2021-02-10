@@ -1,0 +1,17 @@
+.contactDescription{
+    text-align:left !important;
+    font-size: x-large;
+    margin-top: 20px;
+}
+.contactHeader{
+    font-size: x-large;
+    font-size: x-large;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.detailCard{
+    padding-top: 10px;
+}
+.contactDetailTitle{
+    padding-bottom: 3px;
+}
